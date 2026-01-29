@@ -1,2 +1,2 @@
-# my-new-project
-A new project repository initialized with basic structure.
+# My New Project
+This is a new project initialized with basic structure.
